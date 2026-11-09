@@ -22,7 +22,7 @@ Cada pasta é um dia. Abra a pasta do dia para ver as artes, o horário, como po
 | [11/11 qua](2026-11-11/README.md) | Story | 12h | Beleza que continua sendo sua | 1 |
 | [11/11 qua](2026-11-11/README.md) | Feed (carrossel 5) | 19h | Nosso jeito de cuidar | 5 |
 | [12/11 qui](2026-11-12/README.md) | Story | 12h | Onde estamos | 1 |
-| [13/11 sex](2026-11-13/README.md) | Feed (carrossel 4) | 19h | P1 · Lábios naturais | 4 |
+| [13/11 sex](2026-11-13/README.md) | Feed (carrossel 3) | 19h | P1 · Lábios naturais | 3 |
 | [14/11 sab](2026-11-14/README.md) | Story | 12h | Enquete de procedimento | 1 |
 | [15/11 dom](2026-11-15/README.md) | Story | 12h | Quem vai cuidar de você (Dra. Érika) | 1 |
 | [16/11 seg](2026-11-16/README.md) | Story | 12h | Como funciona a avaliação | 1 |

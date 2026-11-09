@@ -2,18 +2,18 @@
 
 [← Voltar ao cronograma](../README.md)
 
-## Feed (carrossel 4) · 19h · P1 · Lábios naturais
+## Feed (carrossel 3) · 19h · P1 · Lábios naturais
 
 **Como postar:** Não impulsionar. Story do dia: repost deste post ("Adicionar post ao story") com link do grupo.
 
-<img src="feed_1.jpg" width="250"> <img src="feed_2.jpg" width="250"> <img src="feed_3.jpg" width="250"> <img src="feed_4.jpg" width="250">
+<img src="feed_1.jpg" width="250"> <img src="feed_2.jpg" width="250"> <img src="feed_3.jpg" width="250">
 
 **Legenda (copiar e colar):**
 
 ```
 Lábio bonito é o que combina com o seu rosto. 💋
 
-Nesse caso, a proposta foi definir o contorno e devolver volume com equilíbrio, respeitando o formato natural dela, de frente e de perfil.
+Nesse caso, a proposta foi definir o contorno e devolver volume com equilíbrio, respeitando o formato natural dela.
 
 Antes de pensar em quantidade de produto, a Dra. Érika avalia proporção, simetria e o que você não quer mudar.
 
