@@ -2,11 +2,11 @@
 
 [← Voltar ao cronograma](../README.md)
 
-## Feed (carrossel 3) · 19h · P9 · Lábio sutil
+## Feed (carrossel 2) · 19h · P9 · Lábio sutil
 
 **Como postar:** Não impulsionar.
 
-<img src="feed_1.jpg" width="250"> <img src="feed_2.jpg" width="250"> <img src="feed_3.jpg" width="250">
+<img src="feed_1.jpg" width="250"> <img src="feed_2.jpg" width="250">
 
 **Legenda (copiar e colar):**
 

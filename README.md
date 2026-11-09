@@ -38,7 +38,7 @@ Cada pasta é um dia. Abra a pasta do dia para ver as artes, o horário, como po
 | [30/11 seg](2026-11-30/README.md) | Feed (carrossel 3) | 19h | P6 · Rinomodelação | 3 |
 | [02/12 qua](2026-12-02/README.md) | Feed (carrossel 3) | 19h | P7 · Mento e mandíbula | 3 |
 | [04/12 sex](2026-12-04/README.md) | Feed (foto única) | 19h | P8 · Beleza que continua sendo sua | 1 |
-| [07/12 seg](2026-12-07/README.md) | Feed (carrossel 3) | 19h | P9 · Lábio sutil | 3 |
+| [07/12 seg](2026-12-07/README.md) | Feed (carrossel 2) | 19h | P9 · Lábio sutil | 2 |
 
 Nos dias 13/11 e 18/11 o story é o repost do post do feed, por isso não há arte de story.
 
