@@ -2,6 +2,8 @@
 
 Perfil **@divineclinic.bsb** · período **09/11 a 07/12/2026** · material para aprovação da equipe.
 
+**Apresentação para abrir no celular:** https://vinriibeiro.github.io/divine-artes-cronograma/
+
 Cada pasta é um dia. Abra a pasta do dia para ver as artes, o horário, como postar e a legenda pronta para copiar.
 
 ## O que mudou em 09/11
